@@ -1,1 +1,1 @@
-# BGC_Powerco_Customer_Churn_analysis_DataScience
+# BCG_Powerco_Customer_Churn_analysis_DataScience
